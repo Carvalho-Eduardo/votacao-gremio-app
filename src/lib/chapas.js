@@ -11,7 +11,7 @@ export const CHAPAS = [
   {
     id: 2,
     nome: "VOZ DA JUVENTUDE",
-    lider: "Marina Fernanda Nakada",
+    lider: "Maria Fernanda Nakada",
     proposta:
       "Tornar a escola mais dinâmica e participativa por meio de gincanas, atividades entre turmas, quizzes, eventos de Biologia e Química, reconhecimento de alunos e professores e novas iniciativas envolvendo os estudantes.",
   },
